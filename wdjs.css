@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'CooperHewitt-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-BoldItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Book';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-BookItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Heavy';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Heavy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-HeavyItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-HeavyItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Light';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-LightItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-MediumItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Semibold';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-SemiboldItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-SemiboldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Thin';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/CooperHewitt-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

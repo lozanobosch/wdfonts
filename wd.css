@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'CooperHewitt-Bold';
+    src: url('./tipos/CooperHewitt-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-BoldItalic';
+    src: url('./tipos/CooperHewitt-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Book';
+    src: url('./tipos/CooperHewitt-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-BookItalic';
+    src: url('./tipos/CooperHewitt-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Heavy';
+    src: url('./tipos/CooperHewitt-Heavy.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-HeavyItalic';
+    src: url('./tipos/CooperHewitt-HeavyItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Light';
+    src: url('./tipos/CooperHewitt-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-LightItalic';
+    src: url('./tipos/CooperHewitt-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Medium';
+    src: url('./tipos/CooperHewitt-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-MediumItalic';
+    src: url('./tipos/CooperHewitt-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Semibold';
+    src: url('./tipos/CooperHewitt-Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-SemiboldItalic';
+    src: url('./tipos/CooperHewitt-SemiboldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'CooperHewitt-Thin';
+    src: url('./tipos/CooperHewitt-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

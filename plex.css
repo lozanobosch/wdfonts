@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'IBMPlexSans-Bold';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-BoldItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-BoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-ExtraLight';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-ExtraLight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-ExtraLightItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-ExtraLightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Italic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Light';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-LightItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-LightItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Medium';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-MediumItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-MediumItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-SemiBold';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-SemiBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-SemiBoldItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-SemiBoldItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Text';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Text.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-TextItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-TextItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-Thin';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'IBMPlexSans-ThinItalic';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/fuentes/IBMPlexSans-ThinItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }

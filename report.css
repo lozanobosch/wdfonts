@@ -9,3 +9,9 @@
        url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/cousine.woff') format('woff'), /* Modern Browsers */
     
 }
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/lozanobosch/wdfonts@main/tipos/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
